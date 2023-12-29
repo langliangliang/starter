@@ -9,6 +9,7 @@
       bg="red-500"
     >
       Hello World
+      
     </div>
   </div>
 </template>
