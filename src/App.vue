@@ -2,14 +2,16 @@
 </script>
 
 <template>
-  <div class="test">
+  <div class="flex flex-col h-[100vh] justify-center items-center">
     <div
       text="44px"
       color="blue"
-      bg="red-500"
     >
-      Hello World
+      Unocss
     </div>
+    <a-button type="primary">
+      Ant-Design-vue
+    </a-button>
   </div>
 </template>
 
