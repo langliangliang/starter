@@ -1,0 +1,10 @@
+# node依赖
+node_modules/
+
+# 分发目录
+dist/
+
+# mac
+.DS_Store
+
+# 本地配置文件
