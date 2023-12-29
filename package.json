@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "ant-design-vue": "4.x",
-    "vue": "^3.4.0"
+    "vue": "^3.4.0",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.6.1",

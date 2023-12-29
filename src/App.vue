@@ -12,6 +12,20 @@
     <a-button type="primary">
       Ant-Design-vue
     </a-button>
+    <div class="flex h-[60px] justify-between items-center">
+      <RouterLink to="/" class="w-[80px]">
+        <div class="text-center">
+          Home
+        </div>
+      </RouterLink>
+      <RouterLink to="/about" class="w-[80px]">
+        <div class="text-center">
+          About
+        </div>
+      </RouterLink>
+    </div>
+
+    <RouterView />
   </div>
 </template>
 
