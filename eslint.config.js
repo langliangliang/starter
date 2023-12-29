@@ -11,6 +11,8 @@ export default antfu({
     quotes: 'single', // or 'double'
   },
 
+  unocss: true,
+
   // TypeScript and Vue are auto-detected, you can also explicitly enable them:
   typescript: true,
   vue: true,
