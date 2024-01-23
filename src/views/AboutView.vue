@@ -3,7 +3,9 @@
 
 <template>
   <main>
-    <h1>This is an About page</h1>
+    <div text-8>
+      This is an <span bg-green-500>About</span> page
+    </div>
   </main>
 </template>
 

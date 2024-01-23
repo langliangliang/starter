@@ -1,8 +1,10 @@
 <script setup>
+import MyComponent from './components/MyComponent.vue'
 </script>
 
 <template>
   <div class="flex flex-col h-[100vh] justify-center items-center">
+    <MyComponent msg="Vue" />
     <div
       text="44px"
       color="blue"
